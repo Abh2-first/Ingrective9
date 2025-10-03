@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Maltodextrin",
+    "description": "A highly processed carbohydrate that can cause blood sugar spikes."
+  },
+  {
+    "name": "MSG (Monosodium Glutamate)",
+    "description": "Enhances flavor but may cause headaches and other symptoms."
+  },
+  {
+    "name": "Sodium Benzoate",
+    "description": "A preservative that may form harmful benzene under certain conditions."
+  },
+  {
+    "name": "Artificial Colors",
+    "description": "Linked to hyperactivity in children and potential allergic reactions."
+  },
+  {
+    "name": "Artificial Sweeteners",
+    "description": "Can disrupt gut bacteria and increase sugar cravings."
+  },
+  {
+    "name": "Hydrogenated Oils",
+    "description": "Contain trans fats that increase heart disease risk."
+  }
+]
